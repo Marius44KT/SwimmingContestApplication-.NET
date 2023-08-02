@@ -1,0 +1,9 @@
+C:\Users\Marius Andreiasi\RiderProjects\concursInot\model\bin\Debug\model.dll
+C:\Users\Marius Andreiasi\RiderProjects\concursInot\model\bin\Debug\model.pdb
+C:\Users\Marius Andreiasi\RiderProjects\concursInot\model\obj\Debug\model.csproj.AssemblyReference.cache
+C:\Users\Marius Andreiasi\RiderProjects\concursInot\model\obj\Debug\model.csproj.CoreCompileInputs.cache
+C:\Users\Marius Andreiasi\RiderProjects\concursInot\model\obj\Debug\model.dll
+C:\Users\Marius Andreiasi\RiderProjects\concursInot\model\obj\Debug\model.pdb
+C:\Users\Marius Andreiasi\RiderProjects\concursInot\model\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Marius Andreiasi\RiderProjects\concursInot\model\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Marius Andreiasi\RiderProjects\concursInot\model\obj\Debug\model.csproj.CopyComplete
