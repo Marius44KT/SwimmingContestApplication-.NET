@@ -1,0 +1,1085 @@
+2023-03-22 02:38:43,410 [1] INFO  repo_participanti - Creating ParticipantDatabaseRepository
+2023-03-22 02:43:21,412 [1] INFO  repo_participanti - Creating ParticipantDatabaseRepository
+2023-03-22 02:44:21,211 [1] INFO  repo_participanti - Creating ParticipantDatabaseRepository
+2023-03-22 02:50:29,645 [1] INFO  repo_participanti - Creating ParticipantDatabaseRepository
+2023-03-22 02:50:29,665 [1] INFO  repo_participanti - Executing findAll
+2023-03-22 02:50:30,475 [1] WARN  repo_participanti - There was a problem with save.
+2023-03-22 02:56:40,814 [1] INFO  repo_participanti - Creating ParticipantDatabaseRepository
+2023-03-22 02:56:40,835 [1] INFO  repo_participanti - Executing save
+2023-03-22 02:56:41,766 [1] ERROR repo_participanti - There was a problem with save.
+2023-03-22 12:25:15,994 [1] INFO  repo_participanti - Creating ParticipantDatabaseRepository
+2023-03-22 12:25:16,050 [1] INFO  repo_participanti - Executing save
+2023-03-22 12:25:16,983 [1] INFO  repo_participanti - save was succesfully executed.
+2023-03-22 12:25:16,992 [1] INFO  repo_participanti - Executing save
+2023-03-22 12:25:17,007 [1] INFO  repo_participanti - save was succesfully executed.
+2023-03-22 12:25:17,007 [1] INFO  repo_participanti - Executing save
+2023-03-22 12:25:17,008 [1] INFO  repo_participanti - save was succesfully executed.
+2023-03-22 12:25:17,009 [1] INFO  repo_probe - Creating ParticipantDatabaseRepository
+2023-03-22 12:25:17,016 [1] INFO  repo_probe - save was succesfully executed.
+2023-03-22 12:25:17,144 [1] ERROR repo_probe - There was a problem with save.
+2023-03-22 12:25:17,145 [1] ERROR repo_probe - There was a problem with save.
+2023-03-22 12:25:17,146 [1] INFO  repo_probe - Executing findByProba
+2023-03-22 12:25:17,178 [1] INFO  repo_probe - findByProba was successfully executed
+2023-03-22 12:26:13,896 [1] INFO  repo_participanti - Creating ParticipantDatabaseRepository
+2023-03-22 12:26:13,917 [1] INFO  repo_participanti - Executing save
+2023-03-22 12:26:14,506 [1] INFO  repo_participanti - save was succesfully executed.
+2023-03-22 12:26:14,515 [1] INFO  repo_participanti - Executing save
+2023-03-22 12:26:14,589 [1] INFO  repo_participanti - save was succesfully executed.
+2023-03-22 12:26:14,590 [1] INFO  repo_participanti - Executing save
+2023-03-22 12:26:14,590 [1] INFO  repo_participanti - save was succesfully executed.
+2023-03-22 12:26:14,591 [1] INFO  repo_probe - Creating ParticipantDatabaseRepository
+2023-03-22 12:26:14,599 [1] INFO  repo_probe - save was succesfully executed.
+2023-03-22 12:26:14,599 [1] INFO  repo_probe - save was succesfully executed.
+2023-03-22 12:26:14,600 [1] INFO  repo_probe - save was succesfully executed.
+2023-03-22 12:26:14,601 [1] INFO  repo_probe - Executing findByProba
+2023-03-22 12:26:14,633 [1] INFO  repo_probe - findByProba was successfully executed
+2023-03-22 13:09:49,279 [1] INFO  repo_participanti - Creating AngajatDatabaseRepository
+2023-03-22 13:09:49,287 [1] INFO  repo_participanti - Creating ParticipantDatabaseRepository
+2023-03-22 13:09:49,293 [1] INFO  repo_participanti - Executing save
+2023-03-22 13:09:50,931 [1] INFO  repo_participanti - save was succesfully executed.
+2023-03-22 13:09:50,936 [1] INFO  repo_participanti - Executing save
+2023-03-22 13:09:50,981 [1] INFO  repo_participanti - save was succesfully executed.
+2023-03-22 13:09:50,981 [1] INFO  repo_participanti - Executing save
+2023-03-22 13:09:50,982 [1] INFO  repo_participanti - save was succesfully executed.
+2023-03-22 13:09:50,982 [1] INFO  repo_probe - Creating ParticipantDatabaseRepository
+2023-03-22 13:09:50,987 [1] INFO  repo_probe - save was succesfully executed.
+2023-03-22 13:09:50,988 [1] INFO  repo_probe - save was succesfully executed.
+2023-03-22 13:09:50,989 [1] INFO  repo_probe - save was succesfully executed.
+2023-03-22 13:09:50,989 [1] INFO  repo_probe - Executing findByProba
+2023-03-22 13:09:51,012 [1] INFO  repo_probe - findByProba was successfully executed
+2023-04-01 03:07:46,722 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-01 03:07:46,737 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-01 03:07:46,773 [1] INFO  repo_persoane - Executing save
+2023-04-01 03:09:27,745 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-01 03:09:27,760 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-01 03:09:27,796 [1] INFO  repo_persoane - Executing save
+2023-04-01 03:13:54,935 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-01 03:13:54,950 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-01 03:13:54,958 [1] INFO  repo_persoane - Executing save
+2023-04-01 03:26:16,012 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-01 03:26:16,029 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-01 03:26:16,036 [1] INFO  repo_persoane - Executing save
+2023-04-01 13:18:22,423 [1] INFO  repo_angajati - Server=localhost;Port=5432;Database=concurs_inot2;Username=postgres;Password=aezakmi;
+2023-04-01 13:18:22,437 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-01 13:18:22,438 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-01 13:18:22,468 [1] INFO  repo_persoane - Executing save
+2023-04-01 13:21:58,761 [1] INFO  repo_angajati - Server=localhost;Port=5432;Database=concurs_inot2;Username=postgres;Password=aezakmi;
+2023-04-01 13:21:58,776 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-01 13:21:58,777 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-01 13:21:58,784 [1] INFO  repo_persoane - Executing save
+2023-04-01 13:21:58,784 [1] INFO  repo_persoane - pas1
+2023-04-01 13:21:58,907 [1] INFO  repo_persoane - pas2
+2023-04-01 13:21:58,909 [1] INFO  repo_persoane - pas3
+2023-04-01 13:21:58,913 [1] INFO  repo_persoane - pas4
+2023-04-01 13:21:59,231 [1] INFO  repo_persoane - pas5
+2023-04-01 13:21:59,433 [1] INFO  repo_persoane - pas6
+2023-04-01 13:21:59,433 [1] INFO  repo_persoane - save was succesfully executed.
+2023-04-01 13:21:59,442 [1] INFO  repo_persoane - Executing save
+2023-04-01 13:21:59,442 [1] INFO  repo_persoane - pas1
+2023-04-01 13:21:59,442 [1] INFO  repo_persoane - pas2
+2023-04-01 13:21:59,442 [1] INFO  repo_persoane - pas3
+2023-04-01 13:21:59,442 [1] INFO  repo_persoane - pas4
+2023-04-01 13:21:59,442 [1] INFO  repo_persoane - pas5
+2023-04-01 13:21:59,518 [1] INFO  repo_persoane - pas6
+2023-04-01 13:21:59,518 [1] INFO  repo_persoane - save was succesfully executed.
+2023-04-01 13:21:59,519 [1] INFO  repo_persoane - Executing save
+2023-04-01 13:21:59,519 [1] INFO  repo_persoane - pas1
+2023-04-01 13:21:59,519 [1] INFO  repo_persoane - pas2
+2023-04-01 13:21:59,519 [1] INFO  repo_persoane - pas3
+2023-04-01 13:21:59,519 [1] INFO  repo_persoane - pas4
+2023-04-01 13:21:59,519 [1] INFO  repo_persoane - pas5
+2023-04-01 13:21:59,520 [1] INFO  repo_persoane - pas6
+2023-04-01 13:21:59,520 [1] INFO  repo_persoane - save was succesfully executed.
+2023-04-01 13:21:59,520 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-01 13:21:59,524 [1] INFO  repo_participanti - Executing save
+2023-04-01 13:21:59,526 [1] INFO  repo_participanti - save was succesfully executed.
+2023-04-01 13:21:59,526 [1] INFO  repo_participanti - Executing save
+2023-04-01 13:21:59,527 [1] INFO  repo_participanti - save was succesfully executed.
+2023-04-01 13:21:59,527 [1] INFO  repo_participanti - Executing save
+2023-04-01 13:21:59,528 [1] INFO  repo_participanti - save was succesfully executed.
+2023-04-01 13:21:59,529 [1] INFO  repo_participanti - Executing findAllByCompetition
+2023-04-01 13:21:59,568 [1] INFO  repo_participanti - findByParticipant was successfully executed
+2023-04-01 13:26:26,476 [1] INFO  repo_angajati - Server=localhost;Port=5432;Database=concurs_inot2;Username=postgres;Password=aezakmi;
+2023-04-01 13:26:26,492 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-01 13:26:26,492 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-01 13:26:26,501 [1] INFO  repo_persoane - Executing save
+2023-04-01 13:26:26,501 [1] INFO  repo_persoane - pas1
+2023-04-01 13:26:26,625 [1] INFO  repo_persoane - pas2
+2023-04-01 13:26:26,627 [1] INFO  repo_persoane - pas3
+2023-04-01 13:26:26,631 [1] INFO  repo_persoane - pas4
+2023-04-01 13:26:26,931 [1] INFO  repo_persoane - pas5
+2023-04-01 13:26:27,061 [1] INFO  repo_persoane - pas6
+2023-04-01 13:26:27,061 [1] INFO  repo_persoane - save was succesfully executed.
+2023-04-01 13:26:27,069 [1] INFO  repo_persoane - Executing save
+2023-04-01 13:26:27,069 [1] INFO  repo_persoane - pas1
+2023-04-01 13:26:27,069 [1] INFO  repo_persoane - pas2
+2023-04-01 13:26:27,069 [1] INFO  repo_persoane - pas3
+2023-04-01 13:26:27,069 [1] INFO  repo_persoane - pas4
+2023-04-01 13:26:27,069 [1] INFO  repo_persoane - pas5
+2023-04-01 13:26:27,070 [1] INFO  repo_persoane - pas6
+2023-04-01 13:26:27,071 [1] INFO  repo_persoane - save was succesfully executed.
+2023-04-01 13:26:27,071 [1] INFO  repo_persoane - Executing save
+2023-04-01 13:26:27,071 [1] INFO  repo_persoane - pas1
+2023-04-01 13:26:27,071 [1] INFO  repo_persoane - pas2
+2023-04-01 13:26:27,071 [1] INFO  repo_persoane - pas3
+2023-04-01 13:26:27,071 [1] INFO  repo_persoane - pas4
+2023-04-01 13:26:27,071 [1] INFO  repo_persoane - pas5
+2023-04-01 13:26:27,071 [1] INFO  repo_persoane - pas6
+2023-04-01 13:26:27,071 [1] INFO  repo_persoane - save was succesfully executed.
+2023-04-01 13:26:27,072 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-01 13:26:27,076 [1] INFO  repo_participanti - Executing save
+2023-04-01 13:26:27,078 [1] INFO  repo_participanti - save was succesfully executed.
+2023-04-01 13:26:27,078 [1] INFO  repo_participanti - Executing save
+2023-04-01 13:26:27,079 [1] INFO  repo_participanti - save was succesfully executed.
+2023-04-01 13:26:27,079 [1] INFO  repo_participanti - Executing save
+2023-04-01 13:26:27,080 [1] INFO  repo_participanti - save was succesfully executed.
+2023-04-01 13:26:27,081 [1] INFO  repo_participanti - Executing findAllByCompetition
+2023-04-01 13:26:27,112 [1] INFO  repo_participanti - findByParticipant was successfully executed
+2023-04-01 13:54:32,547 [1] INFO  repo_angajati - Server=localhost;Port=5432;Database=concurs_inot2;Username=postgres;Password=aezakmi;
+2023-04-01 13:54:32,564 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-01 13:54:32,564 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-01 13:54:33,016 [1] INFO  repo_persoane - Executing save
+2023-04-01 13:54:33,016 [1] INFO  repo_persoane - pas1
+2023-04-01 13:54:33,558 [1] INFO  repo_persoane - pas2
+2023-04-01 13:54:33,560 [1] INFO  repo_persoane - pas3
+2023-04-01 13:54:33,563 [1] INFO  repo_persoane - pas4
+2023-04-01 13:54:34,141 [1] INFO  repo_persoane - pas5
+2023-04-01 13:54:34,576 [1] INFO  repo_persoane - pas6
+2023-04-01 13:54:34,576 [1] INFO  repo_persoane - save was succesfully executed.
+2023-04-01 13:54:34,589 [1] INFO  repo_persoane - Executing save
+2023-04-01 13:54:34,589 [1] INFO  repo_persoane - pas1
+2023-04-01 13:54:34,589 [1] INFO  repo_persoane - pas2
+2023-04-01 13:54:34,589 [1] INFO  repo_persoane - pas3
+2023-04-01 13:54:34,589 [1] INFO  repo_persoane - pas4
+2023-04-01 13:54:34,589 [1] INFO  repo_persoane - pas5
+2023-04-01 13:54:34,610 [1] INFO  repo_persoane - pas6
+2023-04-01 13:54:34,610 [1] INFO  repo_persoane - save was succesfully executed.
+2023-04-01 13:54:34,610 [1] INFO  repo_persoane - Executing save
+2023-04-01 13:54:34,610 [1] INFO  repo_persoane - pas1
+2023-04-01 13:54:34,610 [1] INFO  repo_persoane - pas2
+2023-04-01 13:54:34,610 [1] INFO  repo_persoane - pas3
+2023-04-01 13:54:34,610 [1] INFO  repo_persoane - pas4
+2023-04-01 13:54:34,610 [1] INFO  repo_persoane - pas5
+2023-04-01 13:54:34,610 [1] INFO  repo_persoane - pas6
+2023-04-01 13:54:34,610 [1] INFO  repo_persoane - save was succesfully executed.
+2023-04-01 13:54:34,611 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-01 13:54:34,611 [1] INFO  repo_participanti - Executing save
+2023-04-01 13:54:34,613 [1] INFO  repo_participanti - save was succesfully executed.
+2023-04-01 13:54:34,614 [1] INFO  repo_participanti - Executing save
+2023-04-01 13:54:34,615 [1] INFO  repo_participanti - save was succesfully executed.
+2023-04-01 13:54:34,615 [1] INFO  repo_participanti - Executing save
+2023-04-01 13:54:34,616 [1] INFO  repo_participanti - save was succesfully executed.
+2023-04-01 13:54:34,618 [1] INFO  repo_participanti - Executing findAllByCompetition
+2023-04-01 13:54:34,662 [1] INFO  repo_participanti - findByParticipant was successfully executed
+2023-04-01 14:17:36,346 [1] INFO  repo_angajati - Server=localhost;Port=5432;Database=concurs_inot2;Username=postgres;Password=aezakmi;
+2023-04-01 14:17:36,363 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-01 14:17:36,363 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-01 14:17:36,678 [1] INFO  repo_persoane - Executing save
+2023-04-01 14:17:36,678 [1] INFO  repo_persoane - pas1
+2023-04-01 14:17:37,276 [1] INFO  repo_persoane - pas2
+2023-04-01 14:17:37,278 [1] INFO  repo_persoane - pas3
+2023-04-01 14:17:37,281 [1] INFO  repo_persoane - pas4
+2023-04-01 14:17:38,040 [1] INFO  repo_persoane - pas5
+2023-04-01 14:17:38,543 [1] INFO  repo_persoane - pas6
+2023-04-01 14:17:38,543 [1] INFO  repo_persoane - save was succesfully executed.
+2023-04-01 14:17:38,556 [1] INFO  repo_persoane - Executing save
+2023-04-01 14:17:38,556 [1] INFO  repo_persoane - pas1
+2023-04-01 14:17:38,556 [1] INFO  repo_persoane - pas2
+2023-04-01 14:17:38,556 [1] INFO  repo_persoane - pas3
+2023-04-01 14:17:38,556 [1] INFO  repo_persoane - pas4
+2023-04-01 14:17:38,556 [1] INFO  repo_persoane - pas5
+2023-04-01 14:17:38,566 [1] INFO  repo_persoane - pas6
+2023-04-01 14:17:38,566 [1] INFO  repo_persoane - save was succesfully executed.
+2023-04-01 14:17:38,566 [1] INFO  repo_persoane - Executing save
+2023-04-01 14:17:38,566 [1] INFO  repo_persoane - pas1
+2023-04-01 14:17:38,566 [1] INFO  repo_persoane - pas2
+2023-04-01 14:17:38,566 [1] INFO  repo_persoane - pas3
+2023-04-01 14:17:38,566 [1] INFO  repo_persoane - pas4
+2023-04-01 14:17:38,566 [1] INFO  repo_persoane - pas5
+2023-04-01 14:17:38,567 [1] INFO  repo_persoane - pas6
+2023-04-01 14:17:38,567 [1] INFO  repo_persoane - save was succesfully executed.
+2023-04-01 14:17:38,567 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-01 14:17:38,568 [1] INFO  repo_participanti - Executing save
+2023-04-01 14:17:38,590 [1] INFO  repo_participanti - save was succesfully executed.
+2023-04-01 14:17:38,590 [1] INFO  repo_participanti - Executing save
+2023-04-01 14:17:38,591 [1] INFO  repo_participanti - save was succesfully executed.
+2023-04-01 14:17:38,591 [1] INFO  repo_participanti - Executing save
+2023-04-01 14:17:38,591 [1] INFO  repo_participanti - save was succesfully executed.
+2023-04-01 14:17:38,594 [1] INFO  repo_participanti - Executing findAllByCompetition
+2023-04-01 14:17:38,634 [1] INFO  repo_participanti - findByParticipant was successfully executed
+2023-04-01 14:19:26,790 [1] INFO  repo_angajati - Server=localhost;Port=5432;Database=concurs_inot2;Username=postgres;Password=aezakmi;
+2023-04-01 14:19:26,806 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-01 14:19:26,806 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-01 14:19:26,832 [1] INFO  repo_persoane - Executing save
+2023-04-01 14:19:26,833 [1] INFO  repo_persoane - pas1
+2023-04-01 14:19:27,030 [1] INFO  repo_persoane - pas2
+2023-04-01 14:19:27,032 [1] INFO  repo_persoane - pas3
+2023-04-01 14:19:27,034 [1] INFO  repo_persoane - pas4
+2023-04-01 14:19:27,375 [1] INFO  repo_persoane - pas5
+2023-04-01 14:19:27,648 [1] ERROR repo_persoane - There was a problem with save.
+2023-04-01 14:19:27,648 [1] INFO  repo_persoane - Executing save
+2023-04-01 14:19:27,648 [1] INFO  repo_persoane - pas1
+2023-04-01 14:19:27,648 [1] INFO  repo_persoane - pas2
+2023-04-01 14:19:27,648 [1] INFO  repo_persoane - pas3
+2023-04-01 14:19:27,648 [1] INFO  repo_persoane - pas4
+2023-04-01 14:19:27,649 [1] INFO  repo_persoane - pas5
+2023-04-01 14:19:27,650 [1] ERROR repo_persoane - There was a problem with save.
+2023-04-01 14:19:27,650 [1] INFO  repo_persoane - Executing save
+2023-04-01 14:19:27,650 [1] INFO  repo_persoane - pas1
+2023-04-01 14:19:27,650 [1] INFO  repo_persoane - pas2
+2023-04-01 14:19:27,650 [1] INFO  repo_persoane - pas3
+2023-04-01 14:19:27,650 [1] INFO  repo_persoane - pas4
+2023-04-01 14:19:27,650 [1] INFO  repo_persoane - pas5
+2023-04-01 14:19:27,650 [1] ERROR repo_persoane - There was a problem with save.
+2023-04-01 14:19:27,651 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-01 14:19:27,651 [1] INFO  repo_participanti - Executing save
+2023-04-01 14:19:27,653 [1] ERROR repo_participanti - There was a problem with save.
+2023-04-01 14:19:27,654 [1] INFO  repo_participanti - Executing save
+2023-04-01 14:19:27,654 [1] ERROR repo_participanti - There was a problem with save.
+2023-04-01 14:19:27,654 [1] INFO  repo_participanti - Executing save
+2023-04-01 14:19:27,655 [1] ERROR repo_participanti - There was a problem with save.
+2023-04-01 14:19:27,656 [1] INFO  repo_participanti - Executing findAllByCompetition
+2023-04-01 14:19:27,698 [1] INFO  repo_participanti - findByParticipant was successfully executed
+2023-04-01 14:27:42,145 [1] INFO  repo_angajati - Server=localhost;Port=5432;Database=concurs_inot2;Username=postgres;Password=aezakmi;
+2023-04-01 14:27:42,168 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-01 14:27:42,168 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-01 14:27:42,196 [1] INFO  repo_persoane - Executing save
+2023-04-01 14:27:42,883 [1] ERROR repo_persoane - There was a problem with save.
+2023-04-01 14:27:42,883 [1] INFO  repo_persoane - Executing save
+2023-04-01 14:27:42,884 [1] ERROR repo_persoane - There was a problem with save.
+2023-04-01 14:27:42,884 [1] INFO  repo_persoane - Executing save
+2023-04-01 14:27:42,885 [1] ERROR repo_persoane - There was a problem with save.
+2023-04-01 14:27:42,885 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-01 14:27:42,886 [1] INFO  repo_participanti - Executing save
+2023-04-01 14:27:42,888 [1] ERROR repo_participanti - There was a problem with save.
+2023-04-01 14:27:42,888 [1] INFO  repo_participanti - Executing save
+2023-04-01 14:27:42,889 [1] ERROR repo_participanti - There was a problem with save.
+2023-04-01 14:27:42,889 [1] INFO  repo_participanti - Executing save
+2023-04-01 14:27:42,960 [1] ERROR repo_participanti - There was a problem with save.
+2023-04-01 14:27:42,961 [1] INFO  repo_participanti - Executing findAllByCompetition
+2023-04-01 14:27:43,004 [1] INFO  repo_participanti - findByParticipant was successfully executed
+2023-04-01 15:20:39,610 [1] INFO  repo_angajati - Server=localhost;Port=5432;Database=concurs_inot2;Username=postgres;Password=aezakmi;
+2023-04-01 15:20:39,631 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-01 15:20:39,631 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-01 15:20:39,631 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-01 15:21:17,893 [1] INFO  repo_angajati - Server=localhost;Port=5432;Database=concurs_inot2;Username=postgres;Password=aezakmi;
+2023-04-01 15:21:17,908 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-01 15:21:17,908 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-01 15:21:17,909 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-01 15:21:46,011 [1] INFO  repo_angajati - Server=localhost;Port=5432;Database=concurs_inot2;Username=postgres;Password=aezakmi;
+2023-04-01 15:21:46,026 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-01 15:21:46,027 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-01 15:21:46,027 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-01 15:22:26,519 [1] INFO  repo_angajati - Server=localhost;Port=5432;Database=concurs_inot2;Username=postgres;Password=aezakmi;
+2023-04-01 15:22:26,534 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-01 15:22:26,534 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-01 15:22:26,534 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-01 15:44:51,549 [1] INFO  repo_angajati - Server=localhost;Port=5432;Database=concurs_inot2;Username=postgres;Password=aezakmi;
+2023-04-01 15:44:51,566 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-01 15:44:51,566 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-01 15:44:51,566 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-01 15:46:06,516 [1] INFO  repo_angajati - Server=localhost;Port=5432;Database=concurs_inot2;Username=postgres;Password=aezakmi;
+2023-04-01 15:46:06,530 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-01 15:46:06,531 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-01 15:46:06,531 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-01 15:48:38,788 [1] INFO  repo_angajati - Server=localhost;Port=5432;Database=concurs_inot2;Username=postgres;Password=aezakmi;
+2023-04-01 15:48:38,803 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-01 15:48:38,803 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-01 15:48:38,803 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-01 16:35:13,903 [1] INFO  repo_angajati - Server=localhost;Port=5432;Database=concurs_inot2;Username=postgres;Password=aezakmi;
+2023-04-01 16:35:13,921 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-01 16:35:13,921 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-01 16:35:13,921 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-01 17:15:06,602 [1] INFO  repo_angajati - Server=localhost;Port=5432;Database=concurs_inot2;Username=postgres;Password=aezakmi;
+2023-04-01 17:15:06,617 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-01 17:15:06,617 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-01 17:15:06,617 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-01 17:17:39,346 [1] INFO  repo_angajati - Server=localhost;Port=5432;Database=concurs_inot2;Username=postgres;Password=aezakmi;
+2023-04-01 17:17:39,361 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-01 17:17:39,361 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-01 17:17:39,361 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-01 17:20:44,576 [1] INFO  repo_angajati - Server=localhost;Port=5432;Database=concurs_inot2;Username=postgres;Password=aezakmi;
+2023-04-01 17:20:44,594 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-01 17:20:44,595 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-01 17:20:44,595 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-01 17:21:27,238 [1] INFO  repo_angajati - Server=localhost;Port=5432;Database=concurs_inot2;Username=postgres;Password=aezakmi;
+2023-04-01 17:21:27,253 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-01 17:21:27,253 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-01 17:21:27,253 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-01 17:29:25,472 [1] INFO  repo_angajati - Server=localhost;Port=5432;Database=concurs_inot2;Username=postgres;Password=aezakmi;
+2023-04-01 17:29:25,487 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-01 17:29:25,487 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-01 17:29:25,487 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-01 17:29:47,273 [1] INFO  repo_angajati - Server=localhost;Port=5432;Database=concurs_inot2;Username=postgres;Password=aezakmi;
+2023-04-01 17:29:47,288 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-01 17:29:47,289 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-01 17:29:47,289 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-01 17:31:30,629 [1] INFO  repo_angajati - Server=localhost;Port=5432;Database=concurs_inot2;Username=postgres;Password=aezakmi;
+2023-04-01 17:31:30,646 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-01 17:31:30,647 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-01 17:31:30,647 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-01 17:32:35,618 [1] INFO  repo_angajati - Server=localhost;Port=5432;Database=concurs_inot2;Username=postgres;Password=aezakmi;
+2023-04-01 17:32:35,633 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-01 17:32:35,633 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-01 17:32:35,633 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-01 17:34:58,587 [1] INFO  repo_angajati - Server=localhost;Port=5432;Database=concurs_inot2;Username=postgres;Password=aezakmi;
+2023-04-01 17:34:58,603 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-01 17:34:58,603 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-01 17:34:58,603 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-01 17:36:57,982 [1] INFO  repo_angajati - Server=localhost;Port=5432;Database=concurs_inot2;Username=postgres;Password=aezakmi;
+2023-04-01 17:36:57,998 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-01 17:36:57,998 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-01 17:36:57,998 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-01 17:39:43,861 [1] INFO  repo_angajati - Server=localhost;Port=5432;Database=concurs_inot2;Username=postgres;Password=aezakmi;
+2023-04-01 17:39:43,875 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-01 17:39:43,876 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-01 17:39:43,876 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-01 20:33:07,198 [1] INFO  repo_angajati - Server=localhost;Port=5432;Database=concurs_inot2;Username=postgres;Password=aezakmi;
+2023-04-01 20:33:07,213 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-01 20:33:07,213 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-01 20:33:07,213 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-01 20:33:28,458 [1] INFO  repo_angajati - Server=localhost;Port=5432;Database=concurs_inot2;Username=postgres;Password=aezakmi;
+2023-04-01 20:33:28,474 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-01 20:33:28,474 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-01 20:33:28,474 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-01 20:38:45,588 [1] INFO  repo_angajati - Server=localhost;Port=5432;Database=concurs_inot2;Username=postgres;Password=aezakmi;
+2023-04-01 20:38:45,603 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-01 20:38:45,603 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-01 20:38:45,603 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-01 20:46:42,197 [1] INFO  repo_angajati - Server=localhost;Port=5432;Database=concurs_inot2;Username=postgres;Password=aezakmi;
+2023-04-01 20:46:42,211 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-01 20:46:42,212 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-01 20:46:42,212 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-01 20:55:35,772 [1] INFO  repo_angajati - Server=localhost;Port=5432;Database=concurs_inot2;Username=postgres;Password=aezakmi;
+2023-04-01 20:55:35,786 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-01 20:55:35,787 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-01 20:55:35,787 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-01 21:09:32,103 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-01 21:09:32,118 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-01 21:09:32,118 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-01 22:57:21,698 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-01 22:57:21,714 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-01 22:57:21,714 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-01 23:01:19,644 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-01 23:01:19,659 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-01 23:01:19,659 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-01 23:07:03,749 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-01 23:07:03,766 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-01 23:07:03,766 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-01 23:07:42,613 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-01 23:07:42,627 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-01 23:07:42,627 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-01 23:07:48,423 [1] ERROR repo_participanti - There was a problem with getNumarParticipantiDupaProba
+2023-04-01 23:09:06,933 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-01 23:09:06,948 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-01 23:09:06,948 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-01 23:09:56,851 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-01 23:09:56,866 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-01 23:09:56,866 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-01 23:13:01,381 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-01 23:13:01,396 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-01 23:13:01,396 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-01 23:20:04,952 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-01 23:20:04,966 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-01 23:20:04,967 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-01 23:29:44,627 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-01 23:29:44,642 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-01 23:29:44,642 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-01 23:29:59,036 [1] INFO  repo_angajati - Executing findOneByEmailAndPassword
+2023-04-01 23:29:59,703 [1] INFO  repo_angajati - Executing findOneByEmail
+2023-04-01 23:29:59,762 [1] ERROR repo_angajati - There was a problem with findOneByEmail.
+2023-04-01 23:30:03,781 [1] INFO  repo_angajati - Executing findOneByEmailAndPassword
+2023-04-01 23:30:03,781 [1] INFO  repo_angajati - Executing findOneByEmail
+2023-04-01 23:30:03,783 [1] ERROR repo_angajati - There was a problem with findOneByEmail.
+2023-04-01 23:30:04,457 [1] INFO  repo_angajati - Executing findOneByEmailAndPassword
+2023-04-01 23:30:04,458 [1] INFO  repo_angajati - Executing findOneByEmail
+2023-04-01 23:30:04,459 [1] ERROR repo_angajati - There was a problem with findOneByEmail.
+2023-04-01 23:30:04,609 [1] INFO  repo_angajati - Executing findOneByEmailAndPassword
+2023-04-01 23:30:04,610 [1] INFO  repo_angajati - Executing findOneByEmail
+2023-04-01 23:30:04,611 [1] ERROR repo_angajati - There was a problem with findOneByEmail.
+2023-04-01 23:30:04,755 [1] INFO  repo_angajati - Executing findOneByEmailAndPassword
+2023-04-01 23:30:04,757 [1] INFO  repo_angajati - Executing findOneByEmail
+2023-04-01 23:30:04,758 [1] ERROR repo_angajati - There was a problem with findOneByEmail.
+2023-04-01 23:30:07,829 [1] INFO  repo_angajati - Executing findOneByEmailAndPassword
+2023-04-01 23:30:07,830 [1] INFO  repo_angajati - Executing findOneByEmail
+2023-04-01 23:30:07,831 [1] ERROR repo_angajati - There was a problem with findOneByEmail.
+2023-04-01 23:30:07,985 [1] INFO  repo_angajati - Executing findOneByEmailAndPassword
+2023-04-01 23:30:07,985 [1] INFO  repo_angajati - Executing findOneByEmail
+2023-04-01 23:30:07,986 [1] ERROR repo_angajati - There was a problem with findOneByEmail.
+2023-04-01 23:30:08,137 [1] INFO  repo_angajati - Executing findOneByEmailAndPassword
+2023-04-01 23:30:08,137 [1] INFO  repo_angajati - Executing findOneByEmail
+2023-04-01 23:30:08,139 [1] ERROR repo_angajati - There was a problem with findOneByEmail.
+2023-04-01 23:30:08,276 [1] INFO  repo_angajati - Executing findOneByEmailAndPassword
+2023-04-01 23:30:08,276 [1] INFO  repo_angajati - Executing findOneByEmail
+2023-04-01 23:30:08,277 [1] ERROR repo_angajati - There was a problem with findOneByEmail.
+2023-04-01 23:30:08,428 [1] INFO  repo_angajati - Executing findOneByEmailAndPassword
+2023-04-01 23:30:08,429 [1] INFO  repo_angajati - Executing findOneByEmail
+2023-04-01 23:30:08,430 [1] ERROR repo_angajati - There was a problem with findOneByEmail.
+2023-04-01 23:30:08,575 [1] INFO  repo_angajati - Executing findOneByEmailAndPassword
+2023-04-01 23:30:08,576 [1] INFO  repo_angajati - Executing findOneByEmail
+2023-04-01 23:30:08,577 [1] ERROR repo_angajati - There was a problem with findOneByEmail.
+2023-04-01 23:30:14,364 [1] INFO  repo_angajati - Executing findOneByEmailAndPassword
+2023-04-01 23:30:14,364 [1] INFO  repo_angajati - Executing findOneByEmail
+2023-04-01 23:30:14,365 [1] ERROR repo_angajati - There was a problem with findOneByEmail.
+2023-04-01 23:30:14,848 [1] INFO  repo_angajati - Executing findOneByEmailAndPassword
+2023-04-01 23:30:14,849 [1] INFO  repo_angajati - Executing findOneByEmail
+2023-04-01 23:30:14,850 [1] ERROR repo_angajati - There was a problem with findOneByEmail.
+2023-04-01 23:30:14,984 [1] INFO  repo_angajati - Executing findOneByEmailAndPassword
+2023-04-01 23:30:14,985 [1] INFO  repo_angajati - Executing findOneByEmail
+2023-04-01 23:30:14,986 [1] ERROR repo_angajati - There was a problem with findOneByEmail.
+2023-04-01 23:32:18,211 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-01 23:32:18,226 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-01 23:32:18,226 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-01 23:32:27,515 [1] INFO  repo_angajati - Executing findOneByEmailAndPassword
+2023-04-01 23:32:28,180 [1] INFO  repo_angajati - Executing findOneByEmail
+2023-04-01 23:32:28,229 [1] INFO  repo_angajati - Execution ended succesfully
+2023-04-01 23:32:33,827 [1] INFO  repo_angajati - Executing findOneByEmailAndPassword
+2023-04-01 23:32:33,827 [1] INFO  repo_angajati - Executing findOneByEmail
+2023-04-01 23:32:37,016 [1] INFO  repo_angajati - Executing findOneByEmailAndPassword
+2023-04-01 23:32:37,017 [1] INFO  repo_angajati - Executing findOneByEmail
+2023-04-01 23:32:41,609 [1] INFO  repo_angajati - Executing findOneByEmailAndPassword
+2023-04-01 23:32:41,610 [1] INFO  repo_angajati - Executing findOneByEmail
+2023-04-01 23:32:41,610 [1] INFO  repo_angajati - Execution ended succesfully
+2023-04-01 23:32:53,562 [1] INFO  repo_angajati - Executing findOneByEmailAndPassword
+2023-04-01 23:32:53,563 [1] INFO  repo_angajati - Executing findOneByEmail
+2023-04-01 23:32:53,564 [1] INFO  repo_angajati - Execution ended succesfully
+2023-04-01 23:34:00,413 [1] INFO  repo_angajati - Executing findOneByEmailAndPassword
+2023-04-01 23:34:00,413 [1] INFO  repo_angajati - Executing findOneByEmail
+2023-04-01 23:34:00,414 [1] INFO  repo_angajati - Execution ended succesfully
+2023-04-01 23:34:21,885 [1] INFO  repo_angajati - Executing findOneByEmailAndPassword
+2023-04-01 23:34:21,885 [1] INFO  repo_angajati - Executing findOneByEmail
+2023-04-01 23:34:21,886 [1] INFO  repo_angajati - Execution ended succesfully
+2023-04-01 23:34:22,293 [1] INFO  repo_angajati - Executing findOneByEmailAndPassword
+2023-04-01 23:34:22,294 [1] INFO  repo_angajati - Executing findOneByEmail
+2023-04-01 23:34:22,294 [1] INFO  repo_angajati - Execution ended succesfully
+2023-04-01 23:34:22,434 [1] INFO  repo_angajati - Executing findOneByEmailAndPassword
+2023-04-01 23:34:22,435 [1] INFO  repo_angajati - Executing findOneByEmail
+2023-04-01 23:34:22,435 [1] INFO  repo_angajati - Execution ended succesfully
+2023-04-01 23:34:22,589 [1] INFO  repo_angajati - Executing findOneByEmailAndPassword
+2023-04-01 23:34:22,589 [1] INFO  repo_angajati - Executing findOneByEmail
+2023-04-01 23:34:22,590 [1] INFO  repo_angajati - Execution ended succesfully
+2023-04-01 23:34:31,878 [1] INFO  repo_angajati - Executing findOneByEmailAndPassword
+2023-04-01 23:34:31,878 [1] INFO  repo_angajati - Executing findOneByEmail
+2023-04-01 23:34:31,878 [1] INFO  repo_angajati - Execution ended succesfully
+2023-04-01 23:35:12,513 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-01 23:35:12,527 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-01 23:35:12,527 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-01 23:35:18,971 [1] INFO  repo_angajati - Executing findOneByEmailAndPassword
+2023-04-01 23:35:19,561 [1] INFO  repo_angajati - Execution ended succesfully
+2023-04-01 23:36:33,679 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-01 23:36:33,693 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-01 23:36:33,694 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-01 23:36:40,785 [1] INFO  repo_angajati - Executing findOneByEmailAndPassword
+2023-04-01 23:36:41,371 [1] INFO  repo_angajati - Execution ended succesfully
+2023-04-01 23:40:20,992 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-01 23:40:21,006 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-01 23:40:21,006 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-01 23:40:30,654 [1] INFO  repo_angajati - Executing findOneByEmailAndPassword
+2023-04-01 23:40:31,247 [1] INFO  repo_angajati - Execution ended succesfully
+2023-04-02 15:25:44,292 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-02 15:25:44,307 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-02 15:25:44,307 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-02 15:25:54,212 [1] INFO  repo_angajati - Executing findOneByEmailAndPassword
+2023-04-02 15:25:56,005 [1] INFO  repo_angajati - Executing findOneByEmail
+2023-04-02 15:25:56,025 [1] INFO  repo_angajati - Execution ended succesfully
+2023-04-02 15:25:57,943 [1] INFO  repo_angajati - Executing findOneByEmailAndPassword
+2023-04-02 15:25:57,943 [1] INFO  repo_angajati - Execution ended succesfully
+2023-04-02 15:25:58,049 [1] INFO  repo_participanti - Executing findAll
+2023-04-02 15:53:02,046 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-02 15:53:02,060 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-02 15:53:02,060 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-02 15:53:12,459 [1] INFO  repo_angajati - Executing findOneByEmailAndPassword
+2023-04-02 15:53:13,940 [1] INFO  repo_angajati - Execution ended succesfully
+2023-04-02 15:53:39,359 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-02 15:53:39,374 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-02 15:53:39,374 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-02 15:53:47,677 [1] INFO  repo_angajati - Executing findOneByEmailAndPassword
+2023-04-02 15:53:48,272 [1] INFO  repo_angajati - Execution ended succesfully
+2023-04-02 15:54:45,013 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-02 15:54:45,027 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-02 15:54:45,027 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-02 15:54:53,708 [1] INFO  repo_angajati - Executing findOneByEmailAndPassword
+2023-04-02 15:54:54,337 [1] INFO  repo_angajati - Execution ended succesfully
+2023-04-02 15:54:54,416 [1] INFO  repo_participanti - Executing findAll
+2023-04-02 15:54:54,436 [1] INFO  repo_participanti - findAll was successfully executed
+2023-04-02 15:54:54,438 [1] INFO  repo_persoane - Executing findAll
+2023-04-02 15:54:54,523 [1] INFO  repo_persoane - findAll was successfully executed
+2023-04-02 15:57:17,969 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-02 15:57:17,984 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-02 15:57:17,985 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-02 15:57:25,544 [1] INFO  repo_angajati - Executing findOneByEmailAndPassword
+2023-04-02 15:57:26,217 [1] INFO  repo_angajati - Execution ended succesfully
+2023-04-02 15:57:26,305 [1] INFO  repo_participanti - Executing findAll
+2023-04-02 15:57:26,317 [1] INFO  repo_participanti - findAll was successfully executed
+2023-04-02 15:57:26,317 [1] INFO  repo_persoane - Executing findAll
+2023-04-02 15:57:26,321 [1] INFO  repo_persoane - findAll was successfully executed
+2023-04-02 16:00:37,625 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-02 16:00:37,640 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-02 16:00:37,640 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-02 16:00:50,856 [1] INFO  repo_angajati - Executing findOneByEmailAndPassword
+2023-04-02 16:00:51,450 [1] INFO  repo_angajati - Execution ended succesfully
+2023-04-02 16:00:51,527 [1] INFO  repo_participanti - Executing findAll
+2023-04-02 16:00:51,545 [1] INFO  repo_participanti - findAll was successfully executed
+2023-04-02 16:00:51,546 [1] INFO  repo_persoane - Executing findAll
+2023-04-02 16:00:51,550 [1] INFO  repo_persoane - findAll was successfully executed
+2023-04-02 16:01:33,411 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-02 16:01:33,425 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-02 16:01:33,426 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-02 16:01:47,738 [1] INFO  repo_angajati - Executing findOneByEmailAndPassword
+2023-04-02 16:01:48,337 [1] INFO  repo_angajati - Execution ended succesfully
+2023-04-02 16:01:48,425 [1] INFO  repo_participanti - Executing findAll
+2023-04-02 16:01:48,441 [1] INFO  repo_participanti - findAll was successfully executed
+2023-04-02 16:01:48,441 [1] INFO  repo_persoane - Executing findAll
+2023-04-02 16:01:48,448 [1] INFO  repo_persoane - findAll was successfully executed
+2023-04-02 16:04:02,599 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-02 16:04:02,615 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-02 16:04:02,615 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-02 16:04:20,054 [1] INFO  repo_angajati - Executing findOneByEmailAndPassword
+2023-04-02 16:04:20,738 [1] INFO  repo_angajati - Execution ended succesfully
+2023-04-02 16:04:20,830 [1] INFO  repo_participanti - Executing findAll
+2023-04-02 16:04:20,842 [1] INFO  repo_participanti - findAll was successfully executed
+2023-04-02 16:04:20,843 [1] INFO  repo_persoane - Executing findAll
+2023-04-02 16:04:20,850 [1] INFO  repo_persoane - findAll was successfully executed
+2023-04-02 16:22:38,548 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-02 16:22:38,562 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-02 16:22:38,562 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-02 16:22:48,176 [1] INFO  repo_angajati - Executing findOneByEmailAndPassword
+2023-04-02 16:22:48,803 [1] INFO  repo_angajati - Executing findOneByEmail
+2023-04-02 16:23:13,046 [1] INFO  repo_angajati - Executing findOneByEmailAndPassword
+2023-04-02 16:23:13,060 [1] INFO  repo_angajati - Execution ended succesfully
+2023-04-02 16:23:13,126 [1] INFO  repo_participanti - Executing findAll
+2023-04-02 16:23:13,137 [1] INFO  repo_participanti - findAll was successfully executed
+2023-04-02 16:23:13,138 [1] INFO  repo_persoane - Executing findAll
+2023-04-02 16:23:13,142 [1] INFO  repo_persoane - findAll was successfully executed
+2023-04-02 16:23:59,305 [1] INFO  repo_persoane - Executing findOneByNumeAndVarsta
+2023-04-02 16:23:59,316 [1] INFO  repo_persoane - Execution ended succesfully
+2023-04-02 16:23:59,316 [1] INFO  repo_participanti - Executing findOne
+2023-04-02 16:23:59,486 [1] ERROR repo_participanti - There was a problem with getNewId
+2023-04-02 16:23:59,486 [1] INFO  repo_participanti - Executing save
+2023-04-02 16:23:59,577 [1] INFO  repo_participanti - save was succesfully executed.
+2023-04-02 16:24:01,055 [1] INFO  repo_participanti - Executing findAll
+2023-04-02 16:24:01,056 [1] INFO  repo_participanti - findAll was successfully executed
+2023-04-02 16:24:01,056 [1] INFO  repo_persoane - Executing findAll
+2023-04-02 16:24:01,056 [1] INFO  repo_persoane - findAll was successfully executed
+2023-04-02 16:24:12,683 [1] INFO  repo_persoane - Executing findOneByNumeAndVarsta
+2023-04-02 16:24:12,683 [1] INFO  repo_persoane - Execution ended succesfully
+2023-04-02 16:24:12,683 [1] INFO  repo_participanti - Executing findOne
+2023-04-02 16:24:12,684 [1] ERROR repo_participanti - There was a problem with getNewId
+2023-04-02 16:24:12,684 [1] INFO  repo_participanti - Executing save
+2023-04-02 16:24:12,748 [1] ERROR repo_participanti - There was a problem with save.
+2023-04-02 16:24:15,300 [1] INFO  repo_participanti - Executing findAll
+2023-04-02 16:24:15,301 [1] INFO  repo_participanti - findAll was successfully executed
+2023-04-02 16:24:15,301 [1] INFO  repo_persoane - Executing findAll
+2023-04-02 16:24:15,301 [1] INFO  repo_persoane - findAll was successfully executed
+2023-04-02 16:24:17,426 [1] INFO  repo_persoane - Executing findOneByNumeAndVarsta
+2023-04-02 16:24:17,427 [1] INFO  repo_persoane - Execution ended succesfully
+2023-04-02 16:24:17,427 [1] INFO  repo_participanti - Executing findOne
+2023-04-02 16:24:17,427 [1] ERROR repo_participanti - There was a problem with getNewId
+2023-04-02 16:24:17,427 [1] INFO  repo_participanti - Executing save
+2023-04-02 16:24:17,428 [1] ERROR repo_participanti - There was a problem with save.
+2023-04-02 16:24:18,366 [1] INFO  repo_participanti - Executing findAll
+2023-04-02 16:24:18,366 [1] INFO  repo_participanti - findAll was successfully executed
+2023-04-02 16:24:18,366 [1] INFO  repo_persoane - Executing findAll
+2023-04-02 16:24:18,367 [1] INFO  repo_persoane - findAll was successfully executed
+2023-04-02 16:24:43,411 [1] INFO  repo_persoane - Executing findOneByNumeAndVarsta
+2023-04-02 16:24:43,412 [1] INFO  repo_persoane - Execution ended succesfully
+2023-04-02 16:24:43,412 [1] INFO  repo_participanti - Executing findOne
+2023-04-02 16:24:43,413 [1] ERROR repo_participanti - There was a problem with getNewId
+2023-04-02 16:24:43,413 [1] INFO  repo_participanti - Executing save
+2023-04-02 16:24:43,414 [1] ERROR repo_participanti - There was a problem with save.
+2023-04-02 16:24:44,615 [1] INFO  repo_participanti - Executing findAll
+2023-04-02 16:24:44,615 [1] INFO  repo_participanti - findAll was successfully executed
+2023-04-02 16:24:44,615 [1] INFO  repo_persoane - Executing findAll
+2023-04-02 16:24:44,616 [1] INFO  repo_persoane - findAll was successfully executed
+2023-04-02 16:25:43,233 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-02 16:25:43,249 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-02 16:25:43,249 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-02 16:25:52,363 [1] INFO  repo_angajati - Executing findOneByEmailAndPassword
+2023-04-02 16:25:52,986 [1] INFO  repo_angajati - Execution ended succesfully
+2023-04-02 16:25:53,093 [1] INFO  repo_participanti - Executing findAll
+2023-04-02 16:25:53,105 [1] INFO  repo_participanti - findAll was successfully executed
+2023-04-02 16:25:53,106 [1] INFO  repo_persoane - Executing findAll
+2023-04-02 16:25:53,109 [1] INFO  repo_persoane - findAll was successfully executed
+2023-04-02 16:26:02,794 [1] INFO  repo_persoane - Executing findOneByNumeAndVarsta
+2023-04-02 16:26:02,804 [1] INFO  repo_persoane - Execution ended succesfully
+2023-04-02 16:26:02,805 [1] INFO  repo_participanti - Executing findOne
+2023-04-02 16:26:02,855 [1] ERROR repo_participanti - There was a problem with getNewId
+2023-04-02 16:26:02,856 [1] INFO  repo_participanti - Executing save
+2023-04-02 16:26:02,861 [1] ERROR repo_participanti - There was a problem with save.
+2023-04-02 16:26:04,022 [1] INFO  repo_participanti - Executing findAll
+2023-04-02 16:26:04,023 [1] INFO  repo_participanti - findAll was successfully executed
+2023-04-02 16:26:04,023 [1] INFO  repo_persoane - Executing findAll
+2023-04-02 16:26:04,024 [1] INFO  repo_persoane - findAll was successfully executed
+2023-04-02 16:29:59,265 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-02 16:29:59,278 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-02 16:29:59,279 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-02 16:30:07,961 [1] INFO  repo_angajati - Executing findOneByEmailAndPassword
+2023-04-02 16:30:08,631 [1] INFO  repo_angajati - Executing findOneByEmail
+2023-04-02 16:30:26,595 [1] INFO  repo_angajati - Executing findOneByEmailAndPassword
+2023-04-02 16:30:26,596 [1] INFO  repo_angajati - Executing findOneByEmail
+2023-04-02 16:30:37,761 [1] INFO  repo_angajati - Executing findOneByEmailAndPassword
+2023-04-02 16:30:38,082 [1] INFO  repo_angajati - Execution ended succesfully
+2023-04-02 16:30:38,196 [1] INFO  repo_participanti - Executing findAll
+2023-04-02 16:30:38,207 [1] INFO  repo_participanti - findAll was successfully executed
+2023-04-02 16:30:38,208 [1] INFO  repo_persoane - Executing findAll
+2023-04-02 16:30:38,221 [1] INFO  repo_persoane - findAll was successfully executed
+2023-04-02 16:30:50,136 [1] INFO  repo_persoane - Executing findOneByNumeAndVarsta
+2023-04-02 16:30:50,146 [1] INFO  repo_persoane - Execution ended succesfully
+2023-04-02 16:30:50,147 [1] INFO  repo_participanti - Executing findOne
+2023-04-02 16:30:50,155 [1] INFO  repo_participanti - Execution ended succesfully
+2023-04-02 16:36:17,496 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-02 16:36:17,510 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-02 16:36:17,511 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-02 16:36:24,426 [1] INFO  repo_angajati - Executing findOneByEmailAndPassword
+2023-04-02 16:36:25,139 [1] INFO  repo_angajati - Execution ended succesfully
+2023-04-02 16:36:25,231 [1] INFO  repo_participanti - Executing findAll
+2023-04-02 16:36:25,244 [1] INFO  repo_participanti - findAll was successfully executed
+2023-04-02 16:36:25,244 [1] INFO  repo_persoane - Executing findAll
+2023-04-02 16:36:25,247 [1] INFO  repo_persoane - findAll was successfully executed
+2023-04-02 16:37:32,928 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-02 16:37:32,942 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-02 16:37:32,942 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-02 16:37:42,428 [1] INFO  repo_angajati - Executing findOneByEmailAndPassword
+2023-04-02 16:37:43,030 [1] INFO  repo_angajati - Execution ended succesfully
+2023-04-02 16:37:43,118 [1] INFO  repo_participanti - Executing findAll
+2023-04-02 16:37:43,130 [1] INFO  repo_participanti - findAll was successfully executed
+2023-04-02 16:37:43,131 [1] INFO  repo_persoane - Executing findAll
+2023-04-02 16:37:43,138 [1] INFO  repo_persoane - findAll was successfully executed
+2023-04-02 16:39:28,639 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-02 16:39:28,654 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-02 16:39:28,655 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-02 16:39:40,092 [1] INFO  repo_angajati - Executing findOneByEmailAndPassword
+2023-04-02 16:39:40,700 [1] INFO  repo_angajati - Executing findOneByEmail
+2023-04-02 16:39:45,164 [1] INFO  repo_angajati - Executing findOneByEmailAndPassword
+2023-04-02 16:39:45,177 [1] INFO  repo_angajati - Execution ended succesfully
+2023-04-02 16:39:45,235 [1] INFO  repo_participanti - Executing findAll
+2023-04-02 16:39:45,245 [1] INFO  repo_participanti - findAll was successfully executed
+2023-04-02 16:39:45,246 [1] INFO  repo_persoane - Executing findAll
+2023-04-02 16:39:45,251 [1] INFO  repo_persoane - findAll was successfully executed
+2023-04-02 16:39:51,336 [1] INFO  repo_participanti - Executing findAllByCompetition
+2023-04-02 16:39:51,337 [1] INFO  repo_participanti - findByParticipant was successfully executed
+2023-04-02 16:39:51,337 [1] INFO  repo_persoane - Executing findAll
+2023-04-02 16:39:51,338 [1] INFO  repo_persoane - findAll was successfully executed
+2023-04-02 16:39:54,364 [1] INFO  repo_participanti - Executing findAllByCompetition
+2023-04-02 16:39:54,364 [1] INFO  repo_participanti - findByParticipant was successfully executed
+2023-04-02 16:39:54,364 [1] INFO  repo_persoane - Executing findAll
+2023-04-02 16:39:54,365 [1] INFO  repo_persoane - findAll was successfully executed
+2023-04-02 16:39:56,049 [1] INFO  repo_participanti - Executing findAllByCompetition
+2023-04-02 16:39:56,050 [1] INFO  repo_participanti - findByParticipant was successfully executed
+2023-04-02 16:39:56,050 [1] INFO  repo_persoane - Executing findAll
+2023-04-02 16:39:56,051 [1] INFO  repo_persoane - findAll was successfully executed
+2023-04-02 16:39:59,235 [1] INFO  repo_participanti - Executing findAll
+2023-04-02 16:39:59,236 [1] INFO  repo_participanti - findAll was successfully executed
+2023-04-02 16:39:59,236 [1] INFO  repo_persoane - Executing findAll
+2023-04-02 16:39:59,236 [1] INFO  repo_persoane - findAll was successfully executed
+2023-04-02 16:40:07,208 [1] INFO  repo_participanti - Executing findAllByCompetition
+2023-04-02 16:40:07,209 [1] INFO  repo_participanti - findByParticipant was successfully executed
+2023-04-02 16:40:07,209 [1] INFO  repo_persoane - Executing findAll
+2023-04-02 16:40:07,209 [1] INFO  repo_persoane - findAll was successfully executed
+2023-04-02 16:40:12,227 [1] INFO  repo_participanti - Executing findAll
+2023-04-02 16:40:12,228 [1] INFO  repo_participanti - findAll was successfully executed
+2023-04-02 16:40:12,228 [1] INFO  repo_persoane - Executing findAll
+2023-04-02 16:40:12,228 [1] INFO  repo_persoane - findAll was successfully executed
+2023-04-02 16:40:53,235 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-02 16:40:53,250 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-02 16:40:53,250 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-02 16:41:00,586 [1] INFO  repo_angajati - Executing findOneByEmailAndPassword
+2023-04-02 16:41:01,257 [1] INFO  repo_angajati - Execution ended succesfully
+2023-04-02 16:41:01,341 [1] INFO  repo_participanti - Executing findAll
+2023-04-02 16:41:01,351 [1] INFO  repo_participanti - findAll was successfully executed
+2023-04-02 16:41:01,353 [1] INFO  repo_persoane - Executing findAll
+2023-04-02 16:41:01,357 [1] INFO  repo_persoane - findAll was successfully executed
+2023-04-02 16:41:05,752 [1] INFO  repo_participanti - Executing findAllByCompetition
+2023-04-02 16:41:05,753 [1] INFO  repo_participanti - findByParticipant was successfully executed
+2023-04-02 16:41:05,753 [1] INFO  repo_persoane - Executing findAll
+2023-04-02 16:41:05,753 [1] INFO  repo_persoane - findAll was successfully executed
+2023-04-02 16:41:10,700 [1] INFO  repo_participanti - Executing findAll
+2023-04-02 16:41:10,701 [1] INFO  repo_participanti - findAll was successfully executed
+2023-04-02 16:41:10,701 [1] INFO  repo_persoane - Executing findAll
+2023-04-02 16:41:10,701 [1] INFO  repo_persoane - findAll was successfully executed
+2023-04-02 16:41:15,869 [1] INFO  repo_participanti - Executing findAllByCompetition
+2023-04-02 16:41:15,870 [1] INFO  repo_participanti - findByParticipant was successfully executed
+2023-04-02 16:41:15,870 [1] INFO  repo_persoane - Executing findAll
+2023-04-02 16:41:15,870 [1] INFO  repo_persoane - findAll was successfully executed
+2023-04-02 16:41:19,559 [1] INFO  repo_participanti - Executing findAll
+2023-04-02 16:41:19,560 [1] INFO  repo_participanti - findAll was successfully executed
+2023-04-02 16:41:19,560 [1] INFO  repo_persoane - Executing findAll
+2023-04-02 16:41:19,560 [1] INFO  repo_persoane - findAll was successfully executed
+2023-04-02 16:41:51,896 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-02 16:41:51,909 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-02 16:41:51,909 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-03 16:07:02,252 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-03 16:07:02,267 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-03 16:07:02,267 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-03 16:24:23,589 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-03 16:24:23,603 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-03 16:24:23,604 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-03 16:24:33,582 [1] INFO  repo_angajati - Executing findOneByEmailAndPassword
+2023-04-03 16:24:35,380 [1] INFO  repo_angajati - Execution ended succesfully
+2023-04-03 16:24:35,550 [1] INFO  repo_participanti - Executing findAll
+2023-04-03 16:24:35,561 [1] INFO  repo_participanti - findAll was successfully executed
+2023-04-03 16:24:35,562 [1] INFO  repo_persoane - Executing findAll
+2023-04-03 16:24:35,589 [1] INFO  repo_persoane - findAll was successfully executed
+2023-04-03 16:24:45,532 [1] INFO  repo_angajati - Executing findOneByEmailAndPassword
+2023-04-03 16:24:45,533 [1] INFO  repo_angajati - Execution ended succesfully
+2023-04-03 16:24:45,556 [1] INFO  repo_participanti - Executing findAll
+2023-04-03 16:24:45,556 [1] INFO  repo_participanti - findAll was successfully executed
+2023-04-03 16:24:45,556 [1] INFO  repo_persoane - Executing findAll
+2023-04-03 16:24:45,557 [1] INFO  repo_persoane - findAll was successfully executed
+2023-04-03 16:25:15,682 [1] INFO  repo_persoane - Executing findOneByNumeAndVarsta
+2023-04-03 16:25:15,692 [1] INFO  repo_persoane - Execution ended succesfully
+2023-04-03 16:25:15,693 [1] INFO  repo_participanti - Executing findOne
+2023-04-03 16:25:15,702 [1] INFO  repo_participanti - Execution ended succesfully
+2023-04-03 16:25:35,550 [1] INFO  repo_persoane - Executing findOneByNumeAndVarsta
+2023-04-03 16:25:37,262 [1] INFO  repo_persoane - Executing save
+2023-04-03 16:25:37,414 [1] ERROR repo_persoane - There was a problem with save.
+2023-04-03 16:25:37,414 [1] INFO  repo_participanti - Executing findOne
+2023-04-03 16:25:37,415 [1] INFO  repo_participanti - Execution ended succesfully
+2023-04-03 16:26:22,404 [1] INFO  repo_participanti - Executing findAllByCompetition
+2023-04-03 16:26:22,405 [1] INFO  repo_participanti - findByParticipant was successfully executed
+2023-04-03 16:26:22,405 [1] INFO  repo_persoane - Executing findAll
+2023-04-03 16:26:22,406 [1] INFO  repo_persoane - findAll was successfully executed
+2023-04-03 16:26:27,776 [1] INFO  repo_participanti - Executing findAll
+2023-04-03 16:26:27,776 [1] INFO  repo_participanti - findAll was successfully executed
+2023-04-03 16:26:27,777 [1] INFO  repo_persoane - Executing findAll
+2023-04-03 16:26:27,777 [1] INFO  repo_persoane - findAll was successfully executed
+2023-04-03 16:26:57,028 [1] INFO  repo_persoane - Executing findOneByNumeAndVarsta
+2023-04-03 16:26:57,029 [1] INFO  repo_persoane - Executing save
+2023-04-03 16:26:57,061 [1] ERROR repo_persoane - There was a problem with save.
+2023-04-03 16:26:57,061 [1] INFO  repo_participanti - Executing findOne
+2023-04-03 16:26:57,062 [1] INFO  repo_participanti - Execution ended succesfully
+2023-04-03 16:36:21,065 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-03 16:36:21,079 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-03 16:36:21,079 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-03 16:36:27,616 [1] INFO  repo_angajati - Executing findOneByEmailAndPassword
+2023-04-03 16:36:28,216 [1] INFO  repo_angajati - Execution ended succesfully
+2023-04-03 16:36:28,291 [1] INFO  repo_participanti - Executing findAll
+2023-04-03 16:36:28,302 [1] INFO  repo_participanti - findAll was successfully executed
+2023-04-03 16:36:28,302 [1] INFO  repo_persoane - Executing findAll
+2023-04-03 16:36:28,305 [1] INFO  repo_persoane - findAll was successfully executed
+2023-04-03 16:36:42,844 [1] INFO  repo_persoane - Executing findOneByNumeAndVarsta
+2023-04-03 16:36:42,856 [1] INFO  repo_persoane - Executing save
+2023-04-03 16:36:42,880 [1] ERROR repo_persoane - There was a problem with save.
+2023-04-03 16:36:42,881 [1] INFO  repo_participanti - Executing findOne
+2023-04-03 16:36:43,302 [1] ERROR repo_participanti - There was a problem with getNewId
+2023-04-03 16:36:43,302 [1] INFO  repo_participanti - Executing save
+2023-04-03 16:36:43,304 [1] ERROR repo_participanti - There was a problem with save.
+2023-04-03 16:36:47,672 [1] INFO  repo_participanti - Executing findAll
+2023-04-03 16:36:47,673 [1] INFO  repo_participanti - findAll was successfully executed
+2023-04-03 16:36:47,673 [1] INFO  repo_persoane - Executing findAll
+2023-04-03 16:36:47,673 [1] INFO  repo_persoane - findAll was successfully executed
+2023-04-03 16:36:53,685 [1] INFO  repo_persoane - Executing findOneByNumeAndVarsta
+2023-04-03 16:36:53,686 [1] INFO  repo_persoane - Executing save
+2023-04-03 16:36:53,687 [1] ERROR repo_persoane - There was a problem with save.
+2023-04-03 16:36:53,687 [1] INFO  repo_participanti - Executing findOne
+2023-04-03 16:36:53,688 [1] ERROR repo_participanti - There was a problem with getNewId
+2023-04-03 16:36:53,688 [1] INFO  repo_participanti - Executing save
+2023-04-03 16:36:53,689 [1] ERROR repo_participanti - There was a problem with save.
+2023-04-03 16:36:55,071 [1] INFO  repo_participanti - Executing findAll
+2023-04-03 16:36:55,072 [1] INFO  repo_participanti - findAll was successfully executed
+2023-04-03 16:36:55,072 [1] INFO  repo_persoane - Executing findAll
+2023-04-03 16:36:55,072 [1] INFO  repo_persoane - findAll was successfully executed
+2023-04-03 16:37:25,108 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-03 16:37:25,122 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-03 16:37:25,122 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-03 16:37:32,993 [1] INFO  repo_angajati - Executing findOneByEmailAndPassword
+2023-04-03 16:37:33,751 [1] INFO  repo_angajati - Execution ended succesfully
+2023-04-03 16:37:33,835 [1] INFO  repo_participanti - Executing findAll
+2023-04-03 16:37:33,847 [1] INFO  repo_participanti - findAll was successfully executed
+2023-04-03 16:37:33,848 [1] INFO  repo_persoane - Executing findAll
+2023-04-03 16:37:33,851 [1] INFO  repo_persoane - findAll was successfully executed
+2023-04-03 16:37:49,162 [1] INFO  repo_persoane - Executing findOneByNumeAndVarsta
+2023-04-03 16:37:49,174 [1] INFO  repo_persoane - Executing save
+2023-04-03 16:37:49,231 [1] ERROR repo_persoane - There was a problem with save.
+2023-04-03 16:37:49,232 [1] INFO  repo_participanti - Executing findOne
+2023-04-03 16:37:49,234 [1] ERROR repo_participanti - There was a problem with getNewId
+2023-04-03 16:37:49,235 [1] INFO  repo_participanti - Executing save
+2023-04-03 16:37:49,257 [1] INFO  repo_participanti - save was succesfully executed.
+2023-04-03 16:37:50,514 [1] INFO  repo_participanti - Executing findAll
+2023-04-03 16:37:50,515 [1] INFO  repo_participanti - findAll was successfully executed
+2023-04-03 16:37:50,515 [1] INFO  repo_persoane - Executing findAll
+2023-04-03 16:37:50,515 [1] INFO  repo_persoane - findAll was successfully executed
+2023-04-03 16:40:35,045 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-03 16:40:35,059 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-03 16:40:35,060 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-03 16:40:41,795 [1] INFO  repo_angajati - Executing findOneByEmailAndPassword
+2023-04-03 16:40:42,385 [1] INFO  repo_angajati - Execution ended succesfully
+2023-04-03 16:40:42,463 [1] INFO  repo_participanti - Executing findAll
+2023-04-03 16:40:42,472 [1] INFO  repo_participanti - findAll was successfully executed
+2023-04-03 16:40:42,473 [1] INFO  repo_persoane - Executing findAll
+2023-04-03 16:40:42,476 [1] INFO  repo_persoane - findAll was successfully executed
+2023-04-03 16:40:52,773 [1] INFO  repo_persoane - Executing findOneByNumeAndVarsta
+2023-04-03 16:40:52,786 [1] INFO  repo_persoane - Executing save
+2023-04-03 16:40:52,809 [1] ERROR repo_persoane - There was a problem with save.
+2023-04-03 16:40:52,810 [1] INFO  repo_participanti - Executing findOne
+2023-04-03 16:40:52,812 [1] INFO  repo_participanti - Executing save
+2023-04-03 16:40:52,813 [1] ERROR repo_participanti - There was a problem with save.
+2023-04-03 16:40:54,183 [1] INFO  repo_participanti - Executing findAll
+2023-04-03 16:40:54,183 [1] INFO  repo_participanti - findAll was successfully executed
+2023-04-03 16:40:54,183 [1] INFO  repo_persoane - Executing findAll
+2023-04-03 16:40:54,183 [1] INFO  repo_persoane - findAll was successfully executed
+2023-04-03 16:44:50,628 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-03 16:44:50,642 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-03 16:44:50,642 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-03 16:45:00,562 [1] INFO  repo_angajati - Executing findOneByEmailAndPassword
+2023-04-03 16:45:01,285 [1] INFO  repo_angajati - Execution ended succesfully
+2023-04-03 16:45:01,360 [1] INFO  repo_participanti - Executing findAll
+2023-04-03 16:45:01,369 [1] INFO  repo_participanti - findAll was successfully executed
+2023-04-03 16:45:01,370 [1] INFO  repo_persoane - Executing findAll
+2023-04-03 16:45:01,373 [1] INFO  repo_persoane - findAll was successfully executed
+2023-04-03 16:45:10,311 [1] INFO  repo_persoane - Executing findOneByNumeAndVarsta
+2023-04-03 16:45:10,323 [1] INFO  repo_persoane - Executing save
+2023-04-03 16:45:10,338 [1] INFO  repo_persoane - save was succesfully executed.
+2023-04-03 16:45:10,339 [1] INFO  repo_participanti - Executing findOne
+2023-04-03 16:45:10,341 [1] INFO  repo_participanti - Executing save
+2023-04-03 16:45:10,450 [1] INFO  repo_participanti - save was succesfully executed.
+2023-04-03 16:45:12,058 [1] INFO  repo_participanti - Executing findAll
+2023-04-03 16:45:12,058 [1] INFO  repo_participanti - findAll was successfully executed
+2023-04-03 16:45:12,058 [1] INFO  repo_persoane - Executing findAll
+2023-04-03 16:45:12,059 [1] INFO  repo_persoane - findAll was successfully executed
+2023-04-03 16:45:15,497 [1] INFO  repo_persoane - Executing findOneByNumeAndVarsta
+2023-04-03 16:45:15,497 [1] INFO  repo_persoane - Execution ended succesfully
+2023-04-03 16:45:15,497 [1] INFO  repo_participanti - Executing findOne
+2023-04-03 16:45:15,498 [1] INFO  repo_participanti - Execution ended succesfully
+2023-04-03 16:45:19,475 [1] INFO  repo_persoane - Executing findOneByNumeAndVarsta
+2023-04-03 16:45:19,476 [1] INFO  repo_persoane - Execution ended succesfully
+2023-04-03 16:45:19,476 [1] INFO  repo_participanti - Executing findOne
+2023-04-03 16:45:19,477 [1] INFO  repo_participanti - Executing save
+2023-04-03 16:45:19,478 [1] INFO  repo_participanti - save was succesfully executed.
+2023-04-03 16:45:20,463 [1] INFO  repo_participanti - Executing findAll
+2023-04-03 16:45:20,464 [1] INFO  repo_participanti - findAll was successfully executed
+2023-04-03 16:45:20,464 [1] INFO  repo_persoane - Executing findAll
+2023-04-03 16:45:20,464 [1] INFO  repo_persoane - findAll was successfully executed
+2023-04-03 16:47:32,076 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-03 16:47:32,090 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-03 16:47:32,091 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-03 16:47:38,560 [1] INFO  repo_angajati - Executing findOneByEmailAndPassword
+2023-04-03 16:47:39,184 [1] INFO  repo_angajati - Executing findOneByEmail
+2023-04-03 16:47:47,823 [1] INFO  repo_angajati - Executing findOneByEmailAndPassword
+2023-04-03 16:47:47,837 [1] INFO  repo_angajati - Execution ended succesfully
+2023-04-03 16:47:47,902 [1] INFO  repo_participanti - Executing findAll
+2023-04-03 16:47:47,911 [1] INFO  repo_participanti - findAll was successfully executed
+2023-04-03 16:47:47,911 [1] INFO  repo_persoane - Executing findAll
+2023-04-03 16:47:47,917 [1] INFO  repo_persoane - findAll was successfully executed
+2023-04-03 16:47:57,619 [1] INFO  repo_persoane - Executing findOneByNumeAndVarsta
+2023-04-03 16:47:57,630 [1] INFO  repo_persoane - Executing save
+2023-04-03 16:47:57,645 [1] INFO  repo_persoane - save was succesfully executed.
+2023-04-03 16:47:57,646 [1] INFO  repo_participanti - Executing findOne
+2023-04-03 16:47:57,648 [1] INFO  repo_participanti - Executing save
+2023-04-03 16:47:57,764 [1] INFO  repo_participanti - save was succesfully executed.
+2023-04-03 16:47:59,104 [1] INFO  repo_participanti - Executing findAll
+2023-04-03 16:47:59,105 [1] INFO  repo_participanti - findAll was successfully executed
+2023-04-03 16:47:59,105 [1] INFO  repo_persoane - Executing findAll
+2023-04-03 16:47:59,105 [1] INFO  repo_persoane - findAll was successfully executed
+2023-04-03 16:48:00,874 [1] INFO  repo_persoane - Executing findOneByNumeAndVarsta
+2023-04-03 16:48:00,875 [1] INFO  repo_persoane - Execution ended succesfully
+2023-04-03 16:48:00,875 [1] INFO  repo_participanti - Executing findOne
+2023-04-03 16:48:00,875 [1] INFO  repo_participanti - Execution ended succesfully
+2023-04-03 16:48:04,624 [1] INFO  repo_persoane - Executing findOneByNumeAndVarsta
+2023-04-03 16:48:04,625 [1] INFO  repo_persoane - Execution ended succesfully
+2023-04-03 16:48:04,625 [1] INFO  repo_participanti - Executing findOne
+2023-04-03 16:48:04,626 [1] INFO  repo_participanti - Executing save
+2023-04-03 16:48:04,628 [1] INFO  repo_participanti - save was succesfully executed.
+2023-04-03 16:48:05,587 [1] INFO  repo_participanti - Executing findAll
+2023-04-03 16:48:05,587 [1] INFO  repo_participanti - findAll was successfully executed
+2023-04-03 16:48:05,587 [1] INFO  repo_persoane - Executing findAll
+2023-04-03 16:48:05,588 [1] INFO  repo_persoane - findAll was successfully executed
+2023-04-03 16:49:45,048 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-03 16:49:45,064 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-03 16:49:45,064 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-03 16:49:51,949 [1] INFO  repo_angajati - Executing findOneByEmailAndPassword
+2023-04-03 16:49:52,949 [1] INFO  repo_angajati - Execution ended succesfully
+2023-04-03 16:49:53,029 [1] INFO  repo_participanti - Executing findAll
+2023-04-03 16:49:53,037 [1] INFO  repo_participanti - findAll was successfully executed
+2023-04-03 16:49:53,038 [1] INFO  repo_persoane - Executing findAll
+2023-04-03 16:49:53,042 [1] INFO  repo_persoane - findAll was successfully executed
+2023-04-03 16:50:09,196 [1] INFO  repo_persoane - Executing findOneByNumeAndVarsta
+2023-04-03 16:50:09,206 [1] INFO  repo_persoane - Execution ended succesfully
+2023-04-03 16:50:09,207 [1] INFO  repo_participanti - Executing findOne
+2023-04-03 16:50:09,218 [1] INFO  repo_participanti - Executing save
+2023-04-03 16:50:09,225 [1] INFO  repo_participanti - save was succesfully executed.
+2023-04-03 16:50:10,696 [1] INFO  repo_participanti - Executing findAll
+2023-04-03 16:50:10,697 [1] INFO  repo_participanti - findAll was successfully executed
+2023-04-03 16:50:10,697 [1] INFO  repo_persoane - Executing findAll
+2023-04-03 16:50:10,697 [1] INFO  repo_persoane - findAll was successfully executed
+2023-04-03 16:50:39,431 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-03 16:50:39,445 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-03 16:50:39,446 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-03 16:50:46,597 [1] INFO  repo_angajati - Executing findOneByEmailAndPassword
+2023-04-03 16:50:47,208 [1] INFO  repo_angajati - Execution ended succesfully
+2023-04-03 16:50:47,293 [1] INFO  repo_participanti - Executing findAll
+2023-04-03 16:50:47,303 [1] INFO  repo_participanti - findAll was successfully executed
+2023-04-03 16:50:47,304 [1] INFO  repo_persoane - Executing findAll
+2023-04-03 16:50:47,307 [1] INFO  repo_persoane - findAll was successfully executed
+2023-04-21 15:16:45,164 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-21 15:16:45,179 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-21 15:16:45,179 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-21 15:16:57,529 [1] INFO  repo_angajati - Executing findOneByEmailAndPassword
+2023-04-21 15:17:00,516 [1] INFO  repo_angajati - Execution ended succesfully
+2023-04-21 15:17:00,732 [1] INFO  repo_participanti - Executing findAll
+2023-04-21 15:17:00,744 [1] INFO  repo_participanti - findAll was successfully executed
+2023-04-21 15:17:00,745 [1] INFO  repo_persoane - Executing findAll
+2023-04-21 15:17:00,782 [1] INFO  repo_persoane - findAll was successfully executed
+2023-04-21 15:18:35,972 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-21 15:18:35,987 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-21 15:18:35,987 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-21 15:18:59,242 [1] INFO  repo_angajati - Executing findOneByEmailAndPassword
+2023-04-21 15:18:59,919 [1] INFO  repo_angajati - Execution ended succesfully
+2023-04-21 15:19:00,013 [1] INFO  repo_participanti - Executing findAll
+2023-04-21 15:19:00,026 [1] INFO  repo_participanti - findAll was successfully executed
+2023-04-21 15:19:00,027 [1] INFO  repo_persoane - Executing findAll
+2023-04-21 15:19:00,031 [1] INFO  repo_persoane - findAll was successfully executed
+2023-04-21 15:19:16,369 [1] INFO  repo_persoane - Executing findOneByNumeAndVarsta
+2023-04-21 15:19:16,379 [1] INFO  repo_persoane - Execution ended succesfully
+2023-04-21 15:19:16,379 [1] INFO  repo_participanti - Executing findOne
+2023-04-21 15:19:16,418 [1] INFO  repo_participanti - Execution ended succesfully
+2023-04-21 15:50:50,980 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-21 15:50:51,001 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-21 15:50:51,001 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-21 19:14:44,586 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-21 19:14:44,600 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-21 19:14:44,601 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-21 19:15:00,953 [1] INFO  repo_angajati - Executing findOneByEmailAndPassword
+2023-04-21 19:15:02,696 [1] INFO  repo_angajati - Execution ended succesfully
+2023-04-21 19:15:02,853 [1] INFO  repo_participanti - Executing findAll
+2023-04-21 19:15:02,871 [1] INFO  repo_participanti - findAll was successfully executed
+2023-04-21 19:15:02,871 [1] INFO  repo_persoane - Executing findAll
+2023-04-21 19:15:02,876 [1] INFO  repo_persoane - findAll was successfully executed
+2023-04-21 19:21:44,327 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-21 19:21:44,341 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-21 19:21:44,342 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-21 19:21:51,451 [1] INFO  repo_angajati - Executing findOneByEmailAndPassword
+2023-04-21 19:21:52,112 [1] INFO  repo_angajati - Execution ended succesfully
+2023-04-21 19:21:52,197 [1] INFO  repo_participanti - Executing findAll
+2023-04-21 19:21:52,209 [1] INFO  repo_participanti - findAll was successfully executed
+2023-04-21 19:21:52,210 [1] INFO  repo_persoane - Executing findAll
+2023-04-21 19:21:52,217 [1] INFO  repo_persoane - findAll was successfully executed
+2023-04-21 19:22:28,621 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-21 19:22:28,635 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-21 19:22:28,635 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-21 19:23:13,622 [1] INFO  repo_angajati - Executing findOneByEmailAndPassword
+2023-04-21 19:23:14,219 [1] INFO  repo_angajati - Execution ended succesfully
+2023-04-21 19:23:14,314 [1] INFO  repo_participanti - Executing findAll
+2023-04-21 19:23:14,328 [1] INFO  repo_participanti - findAll was successfully executed
+2023-04-21 19:23:14,328 [1] INFO  repo_persoane - Executing findAll
+2023-04-21 19:23:14,332 [1] INFO  repo_persoane - findAll was successfully executed
+2023-04-21 19:23:19,469 [1] INFO  repo_participanti - Executing findAllByCompetition
+2023-04-21 19:23:19,470 [1] INFO  repo_participanti - findByParticipant was successfully executed
+2023-04-21 19:23:19,470 [1] INFO  repo_persoane - Executing findAll
+2023-04-21 19:23:19,471 [1] INFO  repo_persoane - findAll was successfully executed
+2023-04-21 19:23:22,016 [1] INFO  repo_participanti - Executing findAllByCompetition
+2023-04-21 19:23:22,017 [1] INFO  repo_participanti - findByParticipant was successfully executed
+2023-04-21 19:23:22,017 [1] INFO  repo_persoane - Executing findAll
+2023-04-21 19:23:22,017 [1] INFO  repo_persoane - findAll was successfully executed
+2023-04-21 19:59:34,702 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-21 19:59:34,718 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-21 19:59:34,718 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-21 19:59:45,914 [1] INFO  repo_angajati - Executing findOneByEmailAndPassword
+2023-04-21 19:59:47,644 [1] INFO  repo_angajati - Execution ended succesfully
+2023-04-21 19:59:47,768 [1] INFO  repo_participanti - Executing findAll
+2023-04-21 19:59:47,780 [1] INFO  repo_participanti - findAll was successfully executed
+2023-04-21 19:59:47,781 [1] INFO  repo_persoane - Executing findAll
+2023-04-21 19:59:47,803 [1] INFO  repo_persoane - findAll was successfully executed
+2023-04-21 20:02:35,123 [1] INFO  repo_angajati - Executing findOneByEmailAndPassword
+2023-04-21 20:02:35,124 [1] INFO  repo_angajati - Execution ended succesfully
+2023-04-21 20:02:35,144 [1] INFO  repo_participanti - Executing findAll
+2023-04-21 20:02:35,145 [1] INFO  repo_participanti - findAll was successfully executed
+2023-04-21 20:02:35,145 [1] INFO  repo_persoane - Executing findAll
+2023-04-21 20:02:35,146 [1] INFO  repo_persoane - findAll was successfully executed
+2023-04-21 20:02:52,423 [1] INFO  repo_participanti - Executing findAllByCompetition
+2023-04-21 20:02:52,423 [1] INFO  repo_participanti - findByParticipant was successfully executed
+2023-04-21 20:02:52,423 [1] INFO  repo_persoane - Executing findAll
+2023-04-21 20:02:52,424 [1] INFO  repo_persoane - findAll was successfully executed
+2023-04-21 20:02:53,153 [1] INFO  repo_participanti - Executing findAll
+2023-04-21 20:02:53,153 [1] INFO  repo_participanti - findAll was successfully executed
+2023-04-21 20:02:53,154 [1] INFO  repo_persoane - Executing findAll
+2023-04-21 20:02:53,154 [1] INFO  repo_persoane - findAll was successfully executed
+2023-04-21 20:03:31,110 [1] INFO  repo_persoane - Executing findOneByNumeAndVarsta
+2023-04-21 20:03:31,120 [1] INFO  repo_persoane - Execution ended succesfully
+2023-04-21 20:03:31,121 [1] INFO  repo_participanti - Executing findOne
+2023-04-21 20:03:31,511 [1] INFO  repo_participanti - Executing save
+2023-04-21 20:03:31,671 [1] INFO  repo_participanti - save was succesfully executed.
+2023-04-21 20:03:33,120 [1] INFO  repo_participanti - Executing findAll
+2023-04-21 20:03:33,121 [1] INFO  repo_participanti - findAll was successfully executed
+2023-04-21 20:03:33,121 [1] INFO  repo_persoane - Executing findAll
+2023-04-21 20:03:33,121 [1] INFO  repo_persoane - findAll was successfully executed
+2023-04-21 20:08:22,056 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-21 20:08:22,071 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-21 20:08:22,071 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-21 20:08:31,921 [1] INFO  repo_angajati - Executing findOneByEmailAndPassword
+2023-04-21 20:08:33,380 [1] INFO  repo_angajati - Execution ended succesfully
+2023-04-21 20:08:33,524 [1] INFO  repo_participanti - Executing findAll
+2023-04-21 20:08:33,539 [1] INFO  repo_participanti - findAll was successfully executed
+2023-04-21 20:08:33,540 [1] INFO  repo_persoane - Executing findAll
+2023-04-21 20:08:33,549 [1] INFO  repo_persoane - findAll was successfully executed
+2023-04-21 20:08:46,688 [1] INFO  repo_participanti - Executing findAllByCompetition
+2023-04-21 20:08:46,689 [1] INFO  repo_participanti - findByParticipant was successfully executed
+2023-04-21 20:08:46,689 [1] INFO  repo_persoane - Executing findAll
+2023-04-21 20:08:46,689 [1] INFO  repo_persoane - findAll was successfully executed
+2023-04-21 20:08:48,696 [1] INFO  repo_participanti - Executing findAllByCompetition
+2023-04-21 20:08:48,697 [1] INFO  repo_participanti - findByParticipant was successfully executed
+2023-04-21 20:08:48,697 [1] INFO  repo_persoane - Executing findAll
+2023-04-21 20:08:48,697 [1] INFO  repo_persoane - findAll was successfully executed
+2023-04-21 20:08:50,089 [1] INFO  repo_participanti - Executing findAllByCompetition
+2023-04-21 20:08:50,090 [1] INFO  repo_participanti - findByParticipant was successfully executed
+2023-04-21 20:08:50,090 [1] INFO  repo_persoane - Executing findAll
+2023-04-21 20:08:50,090 [1] INFO  repo_persoane - findAll was successfully executed
+2023-04-21 20:08:51,664 [1] INFO  repo_participanti - Executing findAllByCompetition
+2023-04-21 20:08:51,665 [1] INFO  repo_participanti - findByParticipant was successfully executed
+2023-04-21 20:08:51,665 [1] INFO  repo_persoane - Executing findAll
+2023-04-21 20:08:51,665 [1] INFO  repo_persoane - findAll was successfully executed
+2023-04-21 20:08:53,075 [1] INFO  repo_participanti - Executing findAll
+2023-04-21 20:08:53,076 [1] INFO  repo_participanti - findAll was successfully executed
+2023-04-21 20:08:53,076 [1] INFO  repo_persoane - Executing findAll
+2023-04-21 20:08:53,076 [1] INFO  repo_persoane - findAll was successfully executed
+2023-04-21 20:22:22,331 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-21 20:22:22,345 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-21 20:22:22,346 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-21 20:22:32,332 [1] INFO  repo_angajati - Executing findOneByEmailAndPassword
+2023-04-21 20:22:34,501 [1] INFO  repo_angajati - Execution ended succesfully
+2023-04-21 20:22:34,645 [1] INFO  repo_participanti - Executing findAll
+2023-04-21 20:22:34,655 [1] INFO  repo_participanti - findAll was successfully executed
+2023-04-21 20:22:34,656 [1] INFO  repo_persoane - Executing findAll
+2023-04-21 20:22:34,684 [1] INFO  repo_persoane - findAll was successfully executed
+2023-04-21 20:29:11,120 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-21 20:29:11,136 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-21 20:29:11,136 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-21 20:29:32,367 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-21 20:29:32,381 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-21 20:29:32,381 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-21 20:29:45,506 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-21 20:29:45,520 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-21 20:29:45,521 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-21 20:29:53,695 [1] INFO  repo_angajati - Executing findOneByEmailAndPassword
+2023-04-21 20:29:54,755 [1] INFO  repo_angajati - Execution ended succesfully
+2023-04-21 20:29:54,870 [1] INFO  repo_participanti - Executing findAll
+2023-04-21 20:29:54,880 [1] INFO  repo_participanti - findAll was successfully executed
+2023-04-21 20:29:54,881 [1] INFO  repo_persoane - Executing findAll
+2023-04-21 20:29:54,887 [1] INFO  repo_persoane - findAll was successfully executed
+2023-04-21 20:48:50,149 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-21 20:48:50,164 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-21 20:48:50,164 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-21 20:49:03,161 [1] INFO  repo_angajati - Executing findOneByEmailAndPassword
+2023-04-21 20:49:03,964 [1] INFO  repo_angajati - Execution ended succesfully
+2023-04-21 20:49:04,082 [1] INFO  repo_participanti - Executing findAll
+2023-04-21 20:49:04,095 [1] INFO  repo_participanti - findAll was successfully executed
+2023-04-21 20:49:04,095 [1] INFO  repo_persoane - Executing findAll
+2023-04-21 20:49:04,100 [1] INFO  repo_persoane - findAll was successfully executed
+2023-04-23 00:21:15,161 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-23 00:21:15,176 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-23 00:21:15,176 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-23 00:21:22,790 [1] INFO  repo_angajati - Executing findOneByEmailAndPassword
+2023-04-23 00:21:24,340 [1] INFO  repo_angajati - Execution ended succesfully
+2023-04-23 00:21:24,492 [1] INFO  repo_participanti - Executing findAll
+2023-04-23 00:21:24,506 [1] INFO  repo_participanti - findAll was successfully executed
+2023-04-23 00:21:24,506 [1] INFO  repo_persoane - Executing findAll
+2023-04-23 00:21:24,527 [1] INFO  repo_persoane - findAll was successfully executed
+2023-04-23 12:02:41,773 [1] INFO  repo_angajati - Creating AngajatDatabaseRepository
+2023-04-23 12:02:41,788 [1] INFO  repo_persoane - Creating PersoaneDatabaseRepository
+2023-04-23 12:02:41,788 [1] INFO  repo_participanti - Creating ParticipantiDatabaseRepository
+2023-04-23 12:02:51,856 [1] INFO  repo_angajati - Executing findOneByEmailAndPassword
+2023-04-23 12:02:53,940 [1] INFO  repo_angajati - Execution ended succesfully
+2023-04-23 12:02:54,163 [1] INFO  repo_participanti - Executing findAll
+2023-04-23 12:02:54,176 [1] INFO  repo_participanti - findAll was successfully executed
+2023-04-23 12:02:54,177 [1] INFO  repo_persoane - Executing findAll
+2023-04-23 12:02:54,230 [1] INFO  repo_persoane - findAll was successfully executed
