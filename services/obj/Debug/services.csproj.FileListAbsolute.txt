@@ -1,0 +1,12 @@
+C:\Users\Marius Andreiasi\RiderProjects\concursInot\services\bin\Debug\services.dll.config
+C:\Users\Marius Andreiasi\RiderProjects\concursInot\services\bin\Debug\services.dll
+C:\Users\Marius Andreiasi\RiderProjects\concursInot\services\bin\Debug\services.pdb
+C:\Users\Marius Andreiasi\RiderProjects\concursInot\services\bin\Debug\model.dll
+C:\Users\Marius Andreiasi\RiderProjects\concursInot\services\bin\Debug\model.pdb
+C:\Users\Marius Andreiasi\RiderProjects\concursInot\services\obj\Debug\services.csproj.AssemblyReference.cache
+C:\Users\Marius Andreiasi\RiderProjects\concursInot\services\obj\Debug\services.csproj.CoreCompileInputs.cache
+C:\Users\Marius Andreiasi\RiderProjects\concursInot\services\obj\Debug\services.csproj.CopyComplete
+C:\Users\Marius Andreiasi\RiderProjects\concursInot\services\obj\Debug\services.dll
+C:\Users\Marius Andreiasi\RiderProjects\concursInot\services\obj\Debug\services.pdb
+C:\Users\Marius Andreiasi\RiderProjects\concursInot\services\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Marius Andreiasi\RiderProjects\concursInot\services\bin\Debug\Newtonsoft.Json.xml
