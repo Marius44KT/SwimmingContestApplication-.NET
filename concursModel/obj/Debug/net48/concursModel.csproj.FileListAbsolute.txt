@@ -1,0 +1,9 @@
+C:\Users\Marius Andreiasi\RiderProjects\concursInot\concursModel\obj\Debug\net48\concursModel.csproj.AssemblyReference.cache
+C:\Users\Marius Andreiasi\RiderProjects\concursInot\concursModel\obj\Debug\net48\concursModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marius Andreiasi\RiderProjects\concursInot\concursModel\obj\Debug\net48\concursModel.AssemblyInfoInputs.cache
+C:\Users\Marius Andreiasi\RiderProjects\concursInot\concursModel\obj\Debug\net48\concursModel.AssemblyInfo.cs
+C:\Users\Marius Andreiasi\RiderProjects\concursInot\concursModel\obj\Debug\net48\concursModel.csproj.CoreCompileInputs.cache
+C:\Users\Marius Andreiasi\RiderProjects\concursInot\concursModel\bin\Debug\net48\concursModel.dll
+C:\Users\Marius Andreiasi\RiderProjects\concursInot\concursModel\bin\Debug\net48\concursModel.pdb
+C:\Users\Marius Andreiasi\RiderProjects\concursInot\concursModel\obj\Debug\net48\concursModel.dll
+C:\Users\Marius Andreiasi\RiderProjects\concursInot\concursModel\obj\Debug\net48\concursModel.pdb

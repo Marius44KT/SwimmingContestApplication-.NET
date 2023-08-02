@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Marius Andreiasi\\RiderProjects\\concursInot\\concursModel\\concursModel.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Marius Andreiasi\\RiderProjects\\concursInot\\concursModel\\concursModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Marius Andreiasi\\RiderProjects\\concursInot\\concursModel\\concursModel.csproj",
+        "projectName": "concursModel",
+        "projectPath": "C:\\Users\\Marius Andreiasi\\RiderProjects\\concursInot\\concursModel\\concursModel.csproj",
+        "packagesPath": "C:\\Users\\Marius Andreiasi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Marius Andreiasi\\RiderProjects\\concursInot\\concursModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Marius Andreiasi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "System.Net.Http": {
+              "target": "Package",
+              "version": "[4.3.4, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
